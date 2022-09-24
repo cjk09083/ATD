@@ -21,7 +21,7 @@
 
 ### iOS/Android APP
 - 모니터링 서비스 앱
-- Flutter(Dart) 하이브리드 개발
+- Android(JAVA) => Flutter(Dart) 하이브리드 개발
 - 농장 상태, 그래프, 지도, 작업내역 관리
 
 
