@@ -10,4 +10,24 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
-## ATD project
+## ATD 프로젝트
+
+## iOS/Android APP
+- 모니터링 서비스 앱
+- Flutter(Dart) 하이브리드 개발
+- 농장 상태, 그래프, 지도, 작업내역 관리
+
+
+## 관리자 페이지
+- 회원, 농장등 모든 정보 관리 페이지
+- 
+
+## 키오스크
+- 지역별 (당진, 세종) 시청에서 사용하는 모니터링 키오스크
+- 현재 농장상태, 그래프, 분석, 지도등 필요한 정보 확인 및 출력
+
+## 대인방역기
+- 농장 출입인원 관리용 앱 (태블릿 전용)
+- 출입인원 신상정보와 목적등의 정보를 서버와 연동
+
+
