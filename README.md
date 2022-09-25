@@ -40,7 +40,7 @@
 <img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/8.%20지역별%20데이터%20-%20상세.PNG" width="45%"/>
 </div></br>
 
-### <a href ="https://github.com/cjk09083/ATD/tree/main/IOS%26Android%20APP">대인방역기 (APP) </a>
+### <a href ="https://github.com/cjk09083/ATD/tree/main/대인방역기">방역인증기 (APP) </a>
 - 농장 출입인원 관리용 앱 (태블릿 전용)
 - 출입인원 신상정보와 목적등의 정보를 서버와 연동
 <div align="center" >
