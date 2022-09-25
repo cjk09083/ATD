@@ -22,5 +22,44 @@
 ### 장비관리
 - 농장에 설치된 기기들의 목록 및 최신 정보 모니터링
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2.%20장비관리%20-%20기상측정기.PNG" width="90%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2.%20장비관리%20-%20악취측정기.PNG" width="90%"/>
 </div></br>
+
+### 데이터목록, 그래프
+- 선택한 농장의 상세 데이터 목록 관리
+- 선택한 항목의 기간별 그래프 확인
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2-2.%20데이터목록%20-%20악취측정기.PNG" width="45%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2-3%20통계%20(온도).PNG" width="45%"/>
+</div></br>
+
+
+### 사용자, 사업장, 지역 관리
+- 서버에 등록된 사용자, 사업장, 지역코드 정보를 관리
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/3.%20사용자관리.PNG" width="45%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/4.%20사업장관리.PNG" width="45%"/>
+</div></br>
+
+### CS 작업 관리
+- 사용자가 WEB 혹은 APP에서 등록한 작업 내역을 관리 
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/6.%20CS%20관리.PNG" width="90%"/>
+</div></br>
+
+
+### 실시간 데이터
+- 원하는 지역별 농장의 실시간 데이터를 모니터링
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/7.%20실시간데이터.PNG" width="90%"/>
+</div></br>
+
+### 지역별 데이터
+- vwolrd MAP API를 활용해 농장 위치와 정보를 지도에 표시
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/8.%20지역별%20데이터%20-%20상세.PNG" width="90%"/>
+</div></br>
+
+
+
+
