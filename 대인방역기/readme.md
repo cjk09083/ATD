@@ -7,19 +7,27 @@
 </div>
 
 ## 목적
-- 축산농장 모니터링 및 관리 
-- 관리자 WEB, 키오스크, 전용 APP등 다양한 형태로 필요한 기능 지원
+- 농장 출입인원 관리용 앱 (태블릿 전용) 
+- 출입인원 신상정보와 목적등의 정보를 서버와 연동
 
 ## 기능
 
 ### 방역인증기 
-- 농장 출입인원 관리용 앱 (태블릿 전용)
-- 출입인원 신상정보와 목적등의 정보를 서버와 연동
+- 최초 사용시 사용자의 정보와 전화번호를 등록
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_1.jpg" width="23%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_3.jpg" width="23%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_4.jpg" width="23%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_6.jpg" width="23%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_1.jpg" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_2.jpg" width="30%"/>
+</div></br>
+
+- 이후 농장 시설에 들어올때 마다 전화번호로 인증
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_3.jpg" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_4.jpg" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_5.jpg" width="30%"/>
 </div></br>
 
 
+- 관리자모드 진입 시 비밀번호 변경, 담당농장 변경, 등록내역 관리 사용
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_6.jpg" width="60%"/>
+</div></br>
