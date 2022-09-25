@@ -14,25 +14,24 @@
 
 ### 농장별 최신 상태 모니터링
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/현장사진/키오스크-1.jpg" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/현장사진/키오스크-2.jpg" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/1.%20농가별현황%20-%20메인.png" width="30%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/현장사진/키오스크-1.jpg" width="45%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/1.%20농가별현황%20-%20메인.png" width="45%"/>
 </div></br>
 
 ### 농장의 기상/악취 정보 차트로 출력
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/3.%20농가별현황%20-%20기상%20차트.png" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/3.%20농가별현황%20-%20악취%20차트.png" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/3.%20농가별현황%20-%20기상%20차트.png" width="45%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/3.%20농가별현황%20-%20악취%20차트.png" width="45%"/>&nbsp;
 </div></br>
 
 ### 농장의 년도별 정보 비교 분석 결과 출력
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/4.%20농가별현황%20-%20데이터%20분석.png" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/4.%20농가별현황%20-%20데이터%20분석2.png" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/4.%20농가별현황%20-%20데이터%20분석.png" width="45%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/4.%20농가별현황%20-%20데이터%20분석2.png" width="45%"/>&nbsp;
 </div></br>
 
 ### 지도상에 각 농장 위치와 상태 출력
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/5.%20축산%20지도.png" width="30%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/5.%20축산%20지도.png" width="60%"/>
 </div></br>
 
