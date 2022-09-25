@@ -32,15 +32,18 @@
 <img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-3%20대기확산(일반).jpg" width="15%"/>
 </div></br>
 
-### 관리자 페이지 (WEB)
+### <a href ="https://github.com/cjk09083/ATD/tree/main/관리자%20WEB">관리자 페이지 (WEB) </a>
 - 회원, 농장등 모든 정보 관리 페이지
-- 
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2.%20장비관리%20-%20악취측정기.PNG" width="45%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/8.%20지역별%20데이터%20-%20상세.PNG" width="45%"/>
+</div></br>
 
-### 키오스크 (WEB)
+### <a href ="https://github.com/cjk09083/ATD/tree/main/IOS%26Android%20APP">키오스크 (WEB) </a>
 - 지역별 (당진, 세종) 시청에서 사용하는 모니터링 키오스크
 - 현재 농장상태, 그래프, 분석, 지도등 필요한 정보 확인 및 출력
 
-### 대인방역기 (APP)
+### <a href ="https://github.com/cjk09083/ATD/tree/main/IOS%26Android%20APP">대인방역기 (APP) </a>
 - 농장 출입인원 관리용 앱 (태블릿 전용)
 - 출입인원 신상정보와 목적등의 정보를 서버와 연동
 
