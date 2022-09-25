@@ -9,9 +9,14 @@
 ## 목적
 - 키오스크 기기에서 담당지역 축산농장 모니터링 및 관리 
 
+## 담당
+- 농장별 현황 div 생성 및 적용 
+- 기상/악취 정보 그래프 출력 
+- 연도별 농장정보 분석
+- 농장 등록 번호로 SMS 메세지 전송
+- vworld MAP에 농장 GPS 좌표와 수치 정보 연동
+
 ## 기능
-
-
 ### 농장별 최신 상태 모니터링
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/현장사진/키오스크-1.jpg" width="45%"/>&nbsp;
