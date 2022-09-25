@@ -15,12 +15,12 @@
 ### 메인
 - 설치/연동/단절 된 농장 정보 요약 표시
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/1.%20메인.PNG" width="60%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/1.%20메인.PNG" width="90%"/>
 </div></br>
 
 
 ### 장비관리
 - 농장에 설치된 기기들의 목록 및 최신 정보 모니터링
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2.%20장비관리%20-%20기상측정기.PNG" width="60%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2.%20장비관리%20-%20기상측정기.PNG" width="90%"/>
 </div></br>
