@@ -19,7 +19,7 @@
 <img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_2.jpg" width="30%"/>
 </div></br>
 
-- 이후 농장 시설에 들어올때 마다 전화번호로 인증
+- 이후 농장 시설 방문 시 전화번호로 인증
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_3.jpg" width="30%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_4.jpg" width="30%"/>&nbsp;
@@ -27,7 +27,7 @@
 </div></br>
 
 
-- 관리자모드 진입 시 비밀번호 변경, 담당농장 변경, 등록내역 관리 사용
+- 관리자모드 진입 시 '비밀번호 변경', '연동농장 변경', '방문내역 관리' 기능 제공
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_6.jpg" width="60%"/>
 </div></br>
