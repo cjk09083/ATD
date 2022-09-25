@@ -42,6 +42,12 @@
 ### <a href ="https://github.com/cjk09083/ATD/tree/main/IOS%26Android%20APP">대인방역기 (APP) </a>
 - 농장 출입인원 관리용 앱 (태블릿 전용)
 - 출입인원 신상정보와 목적등의 정보를 서버와 연동
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기-1.jpg" width="23%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기-3.jpg" width="23%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기-4.jpg" width="23%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기-6.jpg" width="23%"/>
+</div></br>
 
 
 ### <a href ="https://github.com/cjk09083/ATD/tree/main/키오스크">키오스크 (WEB) </a>
