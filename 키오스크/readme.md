@@ -24,7 +24,7 @@
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/3.%20농가별현황%20-%20악취%20차트.png" width="45%"/>&nbsp;
 </div></br>
 
-### 농장의 년도별 정보 비교 분석 결과 출력
+### 농장의 연도별 비교 분석 결과 출력
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/4.%20농가별현황%20-%20데이터%20분석.png" width="45%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/4.%20농가별현황%20-%20데이터%20분석2.png" width="45%"/>&nbsp;
