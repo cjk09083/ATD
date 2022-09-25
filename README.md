@@ -17,7 +17,7 @@
 - 관리자 WEB, 키오스크, 전용 APP등 다양한 형태로 필요한 기능 지원
 
 ## 담당
-- 디자인, 퍼블리싱 제외 1인개발
+- 디자인, 웹퍼블리싱(관리자,키오스크) 제외 1인개발
 
 ## 기능
 ### <a href ="https://github.com/cjk09083/ATD/tree/main/IOS%26Android%20APP">iOS/Android APP </a>
