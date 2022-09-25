@@ -13,13 +13,13 @@
 ## 기능
 
 ### 방역인증기 
-- 최초 사용시 사용자의 정보와 전화번호를 등록
+- 최초 출입시 사용자의 정보와 전화번호를 등록
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_1.jpg" width="30%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_2.jpg" width="30%"/>
 </div></br>
 
-- 이후 농장 시설 방문 시 전화번호로 인증
+- 이후 농장 시설 출입 시 전화번호로 인증
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_3.jpg" width="30%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_4.jpg" width="30%"/>&nbsp;
@@ -27,7 +27,7 @@
 </div></br>
 
 
-- 관리자모드 진입 시 '비밀번호 변경', '연동농장 변경', '방문내역 관리' 기능 제공
+- 관리자모드 진입 시 '비밀번호 변경', '연동농장 변경', '출입내역 관리' 기능 제공
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_6.jpg" width="60%"/>
 </div></br>
