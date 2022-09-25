@@ -23,7 +23,14 @@
 - 모니터링 서비스 앱
 - Android(JAVA) => Flutter(Dart) 하이브리드 개발
 - 농장 상태, 그래프, 지도, 작업내역 관리
-
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/0.%20로그인.jpg" width="15%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/1.%20메인.jpg" width="15%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-1%20장비상태%20-%20날짜선택.jpg" width="15%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-2%20그래프%20(일반).jpg" width="15%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-2%20그래프%20(풍향풍속).jpg" width="15%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-3%20대기확산(위성).jpg" width="15%"/>
+</div></br>
 
 ### 관리자 페이지 (WEB)
 - 회원, 농장등 모든 정보 관리 페이지
