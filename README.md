@@ -43,10 +43,10 @@
 - 농장 출입인원 관리용 앱 (태블릿 전용)
 - 출입인원 신상정보와 목적등의 정보를 서버와 연동
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기-1.jpg" width="23%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기-3.jpg" width="23%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기-4.jpg" width="23%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기-6.jpg" width="23%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_1.jpg" width="23%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_3.jpg" width="23%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_4.jpg" width="23%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/대인방역기/방역인증기_6.jpg" width="23%"/>
 </div></br>
 
 
