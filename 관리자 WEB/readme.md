@@ -8,15 +8,19 @@
 
 ## 목적 
 - 회원, 농장에 관한 모든 정보 관리 
+- 농장에 설치된 기기 종류별 (악취측정기/음수투약기/방역인증기/기상측정기/분뇨정보수집기) 개별 페이지 제공
 
 ## 기능
 
-
 ### 메인
-- 회원, 농장등 모든 정보 관리 페이지
+- 설치/연동/단절 된 농장 정보 요약 표시
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2.%20장비관리%20-%20악취측정기.PNG" width="45%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/8.%20지역별%20데이터%20-%20상세.PNG" width="45%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/1.%20메인.PNG" width="60%"/>
 </div></br>
 
 
+### 장비관리
+- 농장에 설치된 기기들의 목록 및 최신 정보 모니터링
+<div align="center" >
+<img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2.%20장비관리%20-%20기상측정기.PNG" width="60%"/>
+</div></br>
