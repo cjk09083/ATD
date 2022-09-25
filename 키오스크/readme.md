@@ -12,29 +12,27 @@
 ## 기능
 
 
-### 농가별 현황
-- 모니터링 서비스 앱
-- Android(JAVA) => Flutter(Dart) 하이브리드 개발
-- 농장 상태, 그래프, 지도, 작업내역 관리
+### 농장별 최신 상태 모니터링
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/0.%20로그인.jpg" width="15%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/1.%20메인.jpg" width="15%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2.%20장비상태.jpg" width="15%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-2%20그래프%20(일반).jpg" width="15%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-2%20그래프%20(풍향풍속).jpg" width="15%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-3%20대기확산(일반).jpg" width="15%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/현장사진/키오스크-1.jpg" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/현장사진/키오스크-2.jpg" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/1.%20농가별현황%20-%20메인.png" width="30%"/>
 </div></br>
 
-### 축산악취 지도
-- 회원, 농장등 모든 정보 관리 페이지
+### 농장의 기상/악취 정보 차트로 출력
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/현장사진/키오스크-2.jpg" width="30%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/3.%20농가별현황%20-%20기상%20차트.png" width="30%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/3.%20농가별현황%20-%20악취%20차트.png" width="30%"/>&nbsp;
 </div></br>
+
+### 농장의 년도별 정보 비교 분석 결과 출력
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/4.%20농가별현황%20-%20데이터%20분석.png" width="30%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/4.%20농가별현황%20-%20데이터%20분석2.png" width="30%"/>&nbsp;
+</div></br>
+
+### 지도상에 각 농장 위치와 상태 출력
+<div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/5.%20축산%20지도.png" width="30%"/>
 </div></br>
 
