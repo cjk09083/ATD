@@ -48,7 +48,7 @@
 - 지역별 (당진, 세종) 시청에서 사용하는 모니터링 키오스크
 - 현재 농장상태, 그래프, 분석, 지도등 필요한 정보 확인 및 출력
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/1.%20농가별현황%20-%20메인.png" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/ATD/blob/main/현장사진/키오스크-2.jpg" width="30%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/3.%20농가별현황%20-%20기상%20차트.png" width="30%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/3.%20농가별현황%20-%20악취%20차트.png" width="30%"/>&nbsp;
 </div></br>
