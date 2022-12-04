@@ -34,3 +34,10 @@
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/5.%20축산%20지도.png" width="60%"/>
 </div></br>
 
+
+## 주요 문제점 및 해결방법
+- Kakao Map 사용시 Kiosk(터치스크린)에서 터치를 인식 못하는 문제 발견
+=> User-Agent를 Android로 변경해 모바일기기로 인식하도록 업데이트해서 해결
+
+- Kiosk 서버에서 농장 서버의 데이터를 참조하려고 하니 웹 크로스 도메인 에러(CORS policy) 발생
+=> 농장 서버에 Post할때 Ajax(jsonp) + Callback + 파라미터 암호화 를 사용하여 해결
