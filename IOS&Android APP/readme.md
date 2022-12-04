@@ -50,3 +50,12 @@
 <img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-4%20작업내역.jpg" width="30%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-4%20작업등록.jpg" width="30%"/>&nbsp;
 </div></br>
+
+
+
+## 주요 문제점 및 해결방법
+- 웹사이트로 차트를 생성후 모바일 화면에 웹뷰어 형태로 출력시 차트와 글씨가 너무 작아지는 문제 </br>
+=> 모바일 기기가 인식되면 Javscript로 CSS를 변경해 차트와 글씨 크기와 위치를 화면크기에 맞게 변경
+
+- Google, Naver Map 사용시 전체 페이지 터치와 스크롤이 연동되지 않는 문제</br>
+=> Map 위에 레이어를 씌워 1차적으로 레이어에서 터치와 스크롤을 처리하고 이를 하위의 Map에 전달해 전체 페이지와 Map을 연동
