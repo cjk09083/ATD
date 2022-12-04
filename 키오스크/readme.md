@@ -30,7 +30,7 @@
 </div></br>
 
 ### 지도상에 각 농장 위치와 상태 출력
-- VWOLRD 지도 활용
+- VWOLRD 지도 활용 => Kakao, Naver Map으로 변경
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/5.%20축산%20지도.png" width="60%"/>
 </div></br>
