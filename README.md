@@ -62,6 +62,6 @@
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/4.%20농가별현황%20-%20데이터%20분석.png" width="30%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/키오스크/4.%20농가별현황%20-%20데이터%20분석2.png" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/키오스크/6.%20축산%20지도(제주도).png" width="30%"/>
+<img src="https://github.com/cjk09083/ATD/blob/main/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC/6.%20%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%8C%E1%85%B5%E1%84%83%E1%85%A9(%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%AE%E1%84%83%E1%85%A9).png)" width="30%"/>
 </div></br>
 
